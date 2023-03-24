@@ -38,23 +38,25 @@ HTML
 - Grid
 - Git & Git workflow
 
-git clone
-git add
-git commit
-git branch
-git push
-git pull
-GitHub
+- git clone
+- git add
+- git commit
+- git branch
+- git push
+- git pull
+# GitHub
 
 ## Create a repository
 - Deploy to personal pages
 - Comprehension Check
 - You will be employer-ready if you can answer the following questions:
 
-***What does it mean to be a full-stack web developer?
-What is the relationship between HTML and CSS?
-What is Git workflow?
-Learning Objectives
+- What does it mean to be a full-stack web developer?
+- What is the relationship between HTML and CSS?
+- What is Git workflow?
+- Learning Objectives
+
+'''
 ## You will be employer-competitive if you are able to:
 
 - Build and style static webpages with semantic HTML and CSS
@@ -64,19 +66,20 @@ Learning Objectives
 - Explain the value of version control and use Git workflow to initialize projects, track changes, and host via remote server
 - Perform common commands via the command line to interface with the operating system, such as navigating the file tree and creating and deleting files and directories
 - Execute live deployment using GitHub Pages
+
 ## Homework: Code Refactor
 Take the provided codebase and refactor it to make it accessible. Don't forget the cardinal rule when working with someone elses code: "Always leave the code you are editing a little cleaner than you found it"
 
 ## Helpful Links
-[Version Control]().
-[HTML]().
-[CSS]().
-[Pro Git]().
-[Dev Docs]().
+- [Version Control]().
+- [HTML]().
+- [CSS]().
+- [Pro Git]().
+- [Dev Docs]().
 
 ```
 
-### © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+***© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.***
 
 
 ```
